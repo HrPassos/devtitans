@@ -1,0 +1,51 @@
+[33mcommit 704186fdc507f0f7d321ccb241e2e52891615d49[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hugo Passos <hugo.ramos.passos@gmail.com>
+Date:   Sat Jun 10 10:33:59 2023 -0400
+
+    Comitando todos os arquivos juntos
+
+[1mdiff --git a/dev1.txt b/dev1.txt[m
+[1mindex 647cdca..f010f52 100644[m
+[1m--- a/dev1.txt[m
+[1m+++ b/dev1.txt[m
+[36m@@ -1,2 +1,4 @@[m
+ Olá mundo, eu sei usar o Git![m
+[32m+[m[32mOlá mundo, eu sei fazer um commit![m
+[41m+[m
+ [m
+[1mdiff --git a/devtitans2.txt b/devtitans2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..13f387d[m
+[1m--- /dev/null[m
+[1m+++ b/devtitans2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mNovo arquivo do meu projeto devtitans[m
+
+[33mcommit e47cb57e99612e35895d226b4a638fb2edbef9c4[m
+Author: Hugo Passos <hugo.ramos.passos@gmail.com>
+Date:   Sat Jun 10 10:27:33 2023 -0400
+
+    Alterando o dev1.txt
+
+[1mdiff --git a/dev1.txt b/dev1.txt[m
+[1mindex 4fd4e7c..647cdca 100644[m
+[1m--- a/dev1.txt[m
+[1m+++ b/dev1.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-Olá mundo, eu sou DevTITAN![m
+[32m+[m[32mOlá mundo, eu sei usar o Git![m
+[41m+[m
+
+[33mcommit afba81724640ab332c0f7ccde0ce70e3ab52903f[m
+Author: Hugo Passos <hugo.ramos.passos@gmail.com>
+Date:   Sat Jun 10 10:25:12 2023 -0400
+
+    Meu primeiro commit
+
+[1mdiff --git a/dev1.txt b/dev1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4fd4e7c[m
+[1m--- /dev/null[m
+[1m+++ b/dev1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mOlá mundo, eu sou DevTITAN![m
